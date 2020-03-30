@@ -1,0 +1,57 @@
+Q1.
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+Ans:
+We check the lines with + - signs and check what changes were made to the
+existing files that led to bug getting introduced to the new file.
+--------------------------------------------------------------------------------
+Q2.
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Ans:
+We can check what changes we have made in the long run to check where the
+bug was introduced while coding.
+--------------------------------------------------------------------------------
+Q3.
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+Ans:
+Pros are that we can make changes when required and not save and change the
+code again and again.
+Cons are that we need to do this stuff manually and can't be expected to
+autosave as the software might save a wrong version.
+--------------------------------------------------------------------------------
+Q4.
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+Ans:
+One of the reason for this could be that git is used by programmers and they
+write huge amount of codes. Some even write on servers and need their work to
+get saved.
+--------------------------------------------------------------------------------
+Q5.
+How can you use the commands git log and git diff to view the history of files?
+Ans:
+By git log we can get the commit code and then by git diff we can check
+differences in the commits.
+--------------------------------------------------------------------------------
+Q6.
+How might using version control make you more confident to make changes that
+could break something?
+Ans:
+We can then later change the commits if we find any bug.
+--------------------------------------------------------------------------------
+Q7.
+Now that you have your workspace set up, what do you want to try using Git for?
+Ans:
+I would like to try out helping in open-source projects.
+--------------------------------------------------------------------------------
+Q8.
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Ans:
+Having Entire history will help me see the changes and work accordingly to
+understand what these changes were meant for. We can then find the problem faced
+by us and then change the file for efficient use.
+--------------------------------------------------------------------------------
